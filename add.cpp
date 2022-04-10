@@ -17,6 +17,7 @@ main()
 	div=a/b;
 	mdiv=a%b;
 	
+	cout<<"New Changes to the file";  
 	cout<<"Addition of "<<a<<" + "<<b<<" = "<<add<<"\n";
 	cout<<"Substraction of "<<a<<" - "<<b<<" = "<<sub<<"\n";
 	cout<<"Multiplication of "<<a<<" * "<<b<<" = "<<mul<<"\n";
